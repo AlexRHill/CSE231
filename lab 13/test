@@ -1,0 +1,5 @@
+import math
+
+junk = math.hypot(3,4)
+
+print(junk)
